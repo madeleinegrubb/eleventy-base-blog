@@ -7,4 +7,6 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+Name: Madeleine Grubb aka Mads!
+Pet: Armani
+
